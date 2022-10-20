@@ -20,3 +20,6 @@ In the Dockerfile.txt file is the image built with Docker to spawn multiple cont
 docker build -t test:latest
 docker run test:latest
 ```
+As a final part of this task, I createda git repository and upload the necessary files in it.
+
+![image](https://user-images.githubusercontent.com/79673697/197033316-2f84c40f-3e9e-49ce-aee7-7af011518cfa.png)
